@@ -10,11 +10,11 @@
 	<string>b7d299b0a34651d1a0e066786b75aa36168d5809</string>
 	<key>fonts</key>
 	<array>
-		<string>Exo2.0-ExtraBold</string>
-		<string>Exo2.0-ExtraBold</string>
+		<string>Exo2-ExtraBold</string>
+		<string>Exo2-ExtraBold</string>
 	</array>
 	<key>length</key>
-	<integer>53262</integer>
+	<integer>56532</integer>
 	<key>version</key>
 	<integer>18</integer>
 </dict>
